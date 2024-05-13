@@ -24,7 +24,7 @@
  * OTHER DEALINGS IN THE SOFTWARE.
  */
 
-#include <simdjson.h>
+#include "simdjson.h"
 
 #include <fastgltf/core.hpp>
 
